@@ -1,6 +1,6 @@
 # The RETL Implementation. 
 
-The idea is simple: to allow analyzed and queried data extracted from Data Warehouses to be put into customer success platforms, ad platforms, etc., for marketing teams and others to act on the data.
+The idea is simple: to allow analyzed and queried data extracted from Data Warehouses to be put into customer success platforms, ad platforms, etc., for marketing teams and others to act on the data: Reverse ETL (Extract, Transform, Load).
 
 This repository represents the Backend for the platform. UI: https://github.com/aneeshseth/retlfe
 
