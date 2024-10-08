@@ -1,10 +1,10 @@
 # The RETL Implementation. 
 
+The idea is simple: to allow analyzed and queried data extracted from Data Warehouses to be put into customer success platforms, ad platforms, etc., for marketing teams and others to act on the data.
+
 This repository represents the Backend for the platform. UI: https://github.com/aneeshseth/retlfe
 
 <img width="1355" alt="image" src="https://res.cloudinary.com/dhxeo4rvc/image/upload/v1728346949/Screen_Shot_2024-10-07_at_5.22.08_PM_ckn1d9.png">
-
-The idea is simple: to allow analyzed and queried data extracted from Data Warehouses to be put into customer success platforms, ad platforms, etc., for marketing teams and others to act on the data.
 
 - Source, Destination, and other metadata stored in a PostgreSQL database.
 
